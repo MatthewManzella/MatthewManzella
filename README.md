@@ -2,8 +2,8 @@
     - North Central College '26
       - B.S. Computer Science
       - Minors in Mathematics, Economics, and Business Mgmt.
-- 👀 I’m interested in big data analytics and software engineering.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in software engineering and big data analytics.
+- 🌱 I’m currently learning Object-Oriented Programming in C++.
 - 💞️ I’m looking to collaborate on any Python or Java projects, especially anything regarding data analytics, data science, software development, and/or data engineering.
 - 📫 How to reach me:
     - Email: matthew.manzella@comcast.net
