@@ -1,5 +1,5 @@
 - Currently working full-time as a Software Engineer at KeHE Distributors
-    - Also building CleverBound (https://www.cleverbound.org), an AI-Driven tool to create smarter, fairer school district boundaries
+- Continuously building CleverBound (https://www.cleverbound.org), an AI-Driven tool to create smarter, fairer school district boundaries
 - Graduated from North Central College in May 2026
       - B.S. Computer Science
       - Minors in Mathematics, Economics
